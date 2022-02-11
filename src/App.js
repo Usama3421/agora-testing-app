@@ -12,14 +12,15 @@ var rtc = {
 
 // Options for joining a channel
 var option = {
-  appID: "566cfbb11a1e48f794cdc538c64d8373",
-  channel: "channel",
+  appID: "7981554a91f4466f9f50ea1e77da9cd3",
+  channel: "usama",
   uid: null,
   token:
-    "0065cafdc3b58a54b4c9e2b4fe86fb5fdbfIAAQc5rtGlEggAhqIKHsX/bRQsrwXyGZ5iF1adqR47hLB0eO+aIAAAAAEADL5xHfEgMFYgEAAQAZAwVi",
+    "0067981554a91f4466f9f50ea1e77da9cd3IAAB0E/QdwQwtfyr6NFTsz+nrBdHU9IoZKQHxuLC9wnPQ+NyaS0AAAAAEACdNB6Vjl0HYgEAAQCQXQdi",
   key: "",
   secret: "",
 };
+
 
 function joinChannel(role) {
   // Create a client
